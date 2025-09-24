@@ -1,13 +1,11 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 ### Software Engineering Student | Computer Science & Systems
 
-< Desarrolladora en Formación />
-<div align="center"><!-- Gato Lunar Animado --><svg width="300" height="150" xmlns="http://www.w3.org/2000/svg"> <!-- Fondo estrellado --> <rect width="100%" height="100%" fill="#0f172a"/> <!-- Estrellas --> <circle cx="50" cy="30" r="1" fill="white"> <animate attributeName="r" values="1;2;1" dur="2s" repeatCount="indefinite"/> </circle> <circle cx="150" cy="50" r="1" fill="white"> <animate attributeName="r" values="1;1.5;1" dur="1.5s" repeatCount="indefinite"/> </circle> <!-- Luna --> <circle cx="250" cy="50" r="20" fill="#fef3c7"> <animate attributeName="cy" values="50;45;50" dur="4s" repeatCount="indefinite"/> </circle> <!-- Gato --> <g transform="translate(80, 90)"> <!-- Cuerpo --> <ellipse cx="0" cy="0" rx="25" ry="15" fill="#4b5563"/> <!-- Cabeza --> <circle cx="0" cy="-25" r="15" fill="#4b5563"/> <!-- Orejas --> <polygon points="-12,-38 -5,-45 -12,-45" fill="#4b5563"/> <polygon points="12,-38 5,-45 12,-45" fill="#4b5563"/> <!-- Ojos --> <circle cx="-6" cy="-30" r="2" fill="#fef3c7"> <animate attributeName="fill" values="#fef3c7;#f59e0b;#fef3c7" dur="2s" repeatCount="indefinite"/> </circle> <circle cx="6" cy="-30" r="2" fill="#fef3c7"> <animate attributeName="fill" values="#fef3c7;#f59e0b;#fef3c7" dur="2s" repeatCount="indefinite" begin="0.5s"/> </circle> </g> </svg>
-✨ Programando bajo la luz de la luna ✨
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Computer+Science+%26+Systems;Always+learning+%F0%9F%93%9A" alt="Typing SVG" /></div>
+---
 
 ## 🎯 About Me
+
+<div align="center">
 
 \`\`\`javascript
 const daniela = {
@@ -17,6 +15,134 @@ const daniela = {
     status: "Always learning 📚"
 };
 \`\`\`
+
+Enhanced animated lunar scene with floating cat and moon 
+<div class="lunar-scene">
+  <div class="moon">🌕</div>
+  <div class="cat">🐈‍⬛</div>
+  <div class="stars">✨</div>
+  <div class="stars star2">⭐</div>
+  <div class="stars star3">💫</div>
+  <div class="magic-text">*Programando con magia lunar* ✨</div>
+</div>
+
+<style>
+.lunar-scene {
+  position: relative;
+  height: 180px;
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+  border-radius: 20px;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 400px;
+  overflow: hidden;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.moon {
+  font-size: 3.5em;
+  position: absolute;
+  right: 30px;
+  top: 20px;
+  animation: moonFloat 4s ease-in-out infinite;
+  filter: drop-shadow(0 0 20px #fef3c7);
+}
+
+.cat {
+  font-size: 2.5em;
+  position: absolute;
+  left: 40px;
+  bottom: 40px;
+  animation: catBounce 2.5s ease-in-out infinite;
+  transform-origin: bottom center;
+}
+
+.stars {
+  font-size: 1.5em;
+  position: absolute;
+  animation: twinkle 2s ease-in-out infinite;
+}
+
+.stars:nth-child(3) {
+  top: 30px;
+  left: 20%;
+  animation-delay: 0s;
+}
+
+.star2 {
+  top: 50px;
+  right: 25%;
+  animation-delay: 0.7s;
+}
+
+.star3 {
+  top: 20px;
+  left: 50%;
+  animation-delay: 1.4s;
+}
+
+.magic-text {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.9em;
+  color: #fef3c7;
+  font-style: italic;
+  animation: glow 3s ease-in-out infinite;
+}
+
+@keyframes moonFloat {
+  0%, 100% { 
+    transform: translateY(0px) rotate(0deg); 
+  }
+  25% { 
+    transform: translateY(-8px) rotate(2deg); 
+  }
+  50% { 
+    transform: translateY(-15px) rotate(0deg); 
+  }
+  75% { 
+    transform: translateY(-8px) rotate(-2deg); 
+  }
+}
+
+@keyframes catBounce {
+  0%, 100% { 
+    transform: translateY(0px) scaleY(1); 
+  }
+  30% { 
+    transform: translateY(-10px) scaleY(1.1); 
+  }
+  60% { 
+    transform: translateY(-5px) scaleY(0.95); 
+  }
+}
+
+@keyframes twinkle {
+  0%, 100% { 
+    opacity: 1; 
+    transform: scale(1); 
+  }
+  50% { 
+    opacity: 0.3; 
+    transform: scale(1.2); 
+  }
+}
+
+@keyframes glow {
+  0%, 100% { 
+    text-shadow: 0 0 5px #fef3c7; 
+  }
+  50% { 
+    text-shadow: 0 0 20px #fef3c7, 0 0 30px #f59e0b; 
+  }
+}
+</style>
+
+**Código + Luna = Magia** 🌌
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -45,3 +171,19 @@ const daniela = {
 ---
 
 *"The future belongs to those who believe in the beauty of their dreams... and code them"* ✨
+
+\`\`\`javascript
+const luna = {
+    name: "Luna 🐱",
+    status: "Floating around the code",
+    currentActivity: "Helping debug at 2 AM",
+    favoriteSpot: "On my keyboard",
+    mood: () => ["😸 Playful", "😴 Sleepy", "🤔 Curious", "😻 Happy"][Math.floor(Math.random() * 4)],
+    
+    meow: function() {
+        return "Meow! Time to code! 🌙✨";
+    }
+};
+
+// Try this in your console!
+console.log(luna.meow());
