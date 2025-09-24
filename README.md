@@ -1,17 +1,9 @@
 ### Hi there! I’m Dani <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 ### Software Engineering Student · Cat Lover · Dreamer 🌙🐱
 <div align="center">
-
-<!-- Gato pixel art bajo la luna -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="[https://media.tenor.com/OrPcqJuwV8YAAAAC/pixel-cat.gif](https://es.pinterest.com/pin/98727416829643713)" alt="Gato mirando la luna" width="350">
-    </td>
-  </tr>
-</table>
-
+  <img src="cat.gif" alt="Gato animado pixel art" width="600">
 </div>
+
 
 <p><i>¡Luna y el gato te acompañan en tu viaje de código! 🌙🐱</i></p>
 
