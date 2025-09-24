@@ -1,34 +1,70 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+#I'm **Daniela**
 ### Software Engineering Student | Computer Science & Systems
 
 ---
 
 ## 🎯 About Me
 
+<div align="center">
+
 \`\`\`javascript
 const daniela = {
     location: "Peru 🇵🇪",
     education: "Computer Science & Systems Engineering - UPAO",
     focus: ["Web Development", "Databases"],
-    status: "Always learning 📚",
-    
-    // 🌙 Interactive: Click the moon to find the cat!
-    moonPhase: "🌕", // Try: 🌑🌒🌓🌔🌕🌖🌗🌘
-    cat: {
-        name: "Luna",
-        status: "🐱 Sleeping under the moonlight",
-        mood: () => Math.random() > 0.5 ? "😸 Playful" : "😴 Sleepy",
-        favoriteTime: "🌙 Night coding sessions"
-    },
-    
-    getCurrentMood: function() {
-        return `${this.cat.mood()} | Coding with ${this.cat.name} 🐾`;
-    }
+    status: "Always learning 📚"
 };
-
-// 🎮 Game: Try running daniela.getCurrentMood() in your console!
-console.log("🌙✨", daniela.getCurrentMood());
 \`\`\`
+
+</div>
+
+<div align="center">
+  <h3>🌙 Interactive Night Scene</h3>
+  
+  Moon phases animation 
+  <div style="font-size: 2em; margin: 20px 0;">
+    <span>🌑</span>
+    <span>🌒</span>
+    <span>🌓</span>
+    <span>🌔</span>
+    <span style="animation: pulse 2s infinite;">🌕</span>
+    <span>🌖</span>
+    <span>🌗</span>
+    <span>🌘</span>
+  </div>
+  
+  Animated cat 
+  <div style="position: relative; height: 60px; margin: 20px 0;">
+    <div style="animation: float 3s ease-in-out infinite; font-size: 2em;">
+      🐱 Luna is coding with me!
+    </div>
+  </div>
+  
+  Interactive elements 
+  <details>
+    <summary>🎮 Click to run daniela.getCurrentMood()</summary>
+    <div style="margin: 10px 0; padding: 15px; background: #0d1117; border-radius: 8px; color: #58a6ff;">
+      <code>
+        > daniela.getCurrentMood()<br>
+        "😸 Playful | Coding with Luna 🐾"
+      </code>
+    </div>
+  </details>
+  
+</div>
+
+<style>
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.2); opacity: 0.8; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+</style>
 
 ## 🛠️ Tech Stack
 
@@ -57,3 +93,19 @@ console.log("🌙✨", daniela.getCurrentMood());
 ---
 
 *"The future belongs to those who believe in the beauty of their dreams... and code them"* ✨
+
+\`\`\`javascript
+const luna = {
+    name: "Luna 🐱",
+    status: "Floating around the code",
+    currentActivity: "Helping debug at 2 AM",
+    favoriteSpot: "On my keyboard",
+    mood: () => ["😸 Playful", "😴 Sleepy", "🤔 Curious", "😻 Happy"][Math.floor(Math.random() * 4)],
+    
+    meow: function() {
+        return "Meow! Time to code! 🌙✨";
+    }
+};
+
+// Try this in your console!
+console.log(luna.meow());
