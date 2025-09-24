@@ -10,8 +10,24 @@ const daniela = {
     location: "Peru 🇵🇪",
     education: "Computer Science & Systems Engineering - UPAO",
     focus: ["Web Development", "Databases"],
-    status: "Always learning 📚"
+    status: "Always learning 📚",
+    
+    // 🌙 Interactive: Click the moon to find the cat!
+    moonPhase: "🌕", // Try: 🌑🌒🌓🌔🌕🌖🌗🌘
+    cat: {
+        name: "Luna",
+        status: "🐱 Sleeping under the moonlight",
+        mood: () => Math.random() > 0.5 ? "😸 Playful" : "😴 Sleepy",
+        favoriteTime: "🌙 Night coding sessions"
+    },
+    
+    getCurrentMood: function() {
+        return `${this.cat.mood()} | Coding with ${this.cat.name} 🐾`;
+    }
 };
+
+// 🎮 Game: Try running daniela.getCurrentMood() in your console!
+console.log("🌙✨", daniela.getCurrentMood());
 \`\`\`
 
 ## 🛠️ Tech Stack
@@ -35,7 +51,7 @@ const daniela = {
 
 ## 📫 Let's Connect
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/daniela-nieve-64b571261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-nieve-64b571261)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dannievi017@gmail.com)
 
 ---
