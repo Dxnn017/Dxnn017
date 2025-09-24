@@ -1,148 +1,15 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 ### Software Engineering Student | Computer Science & Systems
 
----
-
-## 🎯 About Me
-
 <div align="center">
 
-\`\`\`javascript
 const daniela = {
     location: "Peru 🇵🇪",
     education: "Computer Science & Systems Engineering - UPAO",
-    focus: ["Web Development", "Databases"],
-    status: "Always learning 📚"
+    focus: ["Web Development", "Databases", "Algorithms"],
+    status: "Always learning 📚",
+    motto: "Code with passion, create with purpose ✨"
 };
-\`\`\`
-
-Enhanced animated lunar scene with floating cat and moon 
-<div class="lunar-scene">
-  <div class="moon">🌕</div>
-  <div class="cat">🐈‍⬛</div>
-  <div class="stars">✨</div>
-  <div class="stars star2">⭐</div>
-  <div class="stars star3">💫</div>
-  <div class="magic-text">*Programando con magia lunar* ✨</div>
-</div>
-
-<style>
-.lunar-scene {
-  position: relative;
-  height: 180px;
-  background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-  border-radius: 20px;
-  padding: 20px;
-  margin: 30px auto;
-  max-width: 400px;
-  overflow: hidden;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-}
-
-.moon {
-  font-size: 3.5em;
-  position: absolute;
-  right: 30px;
-  top: 20px;
-  animation: moonFloat 4s ease-in-out infinite;
-  filter: drop-shadow(0 0 20px #fef3c7);
-}
-
-.cat {
-  font-size: 2.5em;
-  position: absolute;
-  left: 40px;
-  bottom: 40px;
-  animation: catBounce 2.5s ease-in-out infinite;
-  transform-origin: bottom center;
-}
-
-.stars {
-  font-size: 1.5em;
-  position: absolute;
-  animation: twinkle 2s ease-in-out infinite;
-}
-
-.stars:nth-child(3) {
-  top: 30px;
-  left: 20%;
-  animation-delay: 0s;
-}
-
-.star2 {
-  top: 50px;
-  right: 25%;
-  animation-delay: 0.7s;
-}
-
-.star3 {
-  top: 20px;
-  left: 50%;
-  animation-delay: 1.4s;
-}
-
-.magic-text {
-  position: absolute;
-  bottom: 10px;
-  left: 50%;
-  transform: translateX(-50%);
-  font-size: 0.9em;
-  color: #fef3c7;
-  font-style: italic;
-  animation: glow 3s ease-in-out infinite;
-}
-
-@keyframes moonFloat {
-  0%, 100% { 
-    transform: translateY(0px) rotate(0deg); 
-  }
-  25% { 
-    transform: translateY(-8px) rotate(2deg); 
-  }
-  50% { 
-    transform: translateY(-15px) rotate(0deg); 
-  }
-  75% { 
-    transform: translateY(-8px) rotate(-2deg); 
-  }
-}
-
-@keyframes catBounce {
-  0%, 100% { 
-    transform: translateY(0px) scaleY(1); 
-  }
-  30% { 
-    transform: translateY(-10px) scaleY(1.1); 
-  }
-  60% { 
-    transform: translateY(-5px) scaleY(0.95); 
-  }
-}
-
-@keyframes twinkle {
-  0%, 100% { 
-    opacity: 1; 
-    transform: scale(1); 
-  }
-  50% { 
-    opacity: 0.3; 
-    transform: scale(1.2); 
-  }
-}
-
-@keyframes glow {
-  0%, 100% { 
-    text-shadow: 0 0 5px #fef3c7; 
-  }
-  50% { 
-    text-shadow: 0 0 20px #fef3c7, 0 0 30px #f59e0b; 
-  }
-}
-</style>
-
-**Código + Luna = Magia** 🌌
-
-</div>
 
 ## 🛠️ Tech Stack
 
