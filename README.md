@@ -1,5 +1,5 @@
 ### Hi there! I’m Dani <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-### Software Engineering Student · Cat Lover · Dreamer 🌙🐱
+### Software Engineering Student | Cat Lover | Dreamer 🌙🐱
 <div align="center">
   <img src="cat.gif" alt="Gato animado pixel art" width="600">
 </div>
