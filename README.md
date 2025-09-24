@@ -2,32 +2,17 @@
 ### Software Engineering Student · Cat Lover · Dreamer 🌙🐱
 <div align="center">
 
-# 👋 Hi there! I’m **Dani**  
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=💻+Tech+Enthusiast;🌱+Future+Software+Engineer;🚀+Always+Learning" />
-
-</div>
-
-<div align="center">
-
-<!-- Gato animado y luna SVG -->
+<!-- Gato pixel art bajo la luna -->
 <table>
   <tr>
-    <td>
-      <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gato animado" width="120">
-    </td>
-    <td>
-      <svg width="80" height="80" viewBox="0 0 80 80">
-        <circle cx="40" cy="40" r="30" fill="#f3e9c6">
-          <animate attributeName="cx" values="40;50;40" dur="2s" repeatCount="indefinite"/>
-        </circle>
-        <circle cx="55" cy="35" r="8" fill="#eaeaea" opacity="0.7">
-          <animate attributeName="cx" values="55;60;55" dur="2s" repeatCount="indefinite"/>
-        </circle>
-      </svg>
+    <td align="center">
+      <img src="[https://media.tenor.com/OrPcqJuwV8YAAAAC/pixel-cat.gif](https://es.pinterest.com/pin/98727416829643713)" alt="Gato mirando la luna" width="350">
     </td>
   </tr>
 </table>
+
+</div>
+
 <p><i>¡Luna y el gato te acompañan en tu viaje de código! 🌙🐱</i></p>
 
 ---
