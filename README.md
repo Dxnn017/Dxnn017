@@ -10,13 +10,11 @@
 ---
 
 <!-- Presentación dinámica -->
-- 🏫 **Junior** at Systems Engineering & AI (UPAO, Peru 🇵🇪)
-- 💡 Turning code into creative solutions for every challenge!
-- 🧑‍💻 Competitive programmer skilled in: Java, JavaScript, Python, C++, **C#**
-- 🗄️ Databases: MySQL, SQL Server, **Oracle**
-- 🚀 Always learning new things and exploring tech 📚✨
-- 🌟 Open for new job opportunities – [Check out my RESUME!](#)
-- 🐾 Fun fact: If you see a cat near the keyboard, that's Luna! She helps debug under the moonlight 😹
+💡 Turning code into creative solutions for every challenge  
+🧑‍💻 Competitive programmer with skills in **Java, JavaScript, Python, C++, C#**  
+🗄️ Experienced with **MySQL, SQL Server, Oracle**  
+🚀 Constantly learning and exploring new technologies ✨  
+🐾 Fun fact: If you see a cat near the keyboard, that's *Luna* — best debugging partner 😹
 
 ---
 
