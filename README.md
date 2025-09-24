@@ -5,7 +5,7 @@
 </div>
 
 
-<p><i>¡Luna y el gato te acompañan en tu viaje de código! 🌙🐱</i></p>
+<p><i>Luna and the cat accompany you on your coding journey!🌙🐱</i></p>
 
 ---
 
@@ -46,4 +46,4 @@
 
 ---
 
-*"El futuro pertenece a quienes creen en la belleza de sus sueños... ¡y los codifican!"* ✨
+*"The future belongs to those who believe in the beauty of their dreams... and codify them! and codify them!* ✨
