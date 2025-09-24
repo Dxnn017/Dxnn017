@@ -1,7 +1,11 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 ### Software Engineering Student | Computer Science & Systems
 
----
+< Desarrolladora en Formación />
+<div align="center"><!-- Gato Lunar Animado --><svg width="300" height="150" xmlns="http://www.w3.org/2000/svg"> <!-- Fondo estrellado --> <rect width="100%" height="100%" fill="#0f172a"/> <!-- Estrellas --> <circle cx="50" cy="30" r="1" fill="white"> <animate attributeName="r" values="1;2;1" dur="2s" repeatCount="indefinite"/> </circle> <circle cx="150" cy="50" r="1" fill="white"> <animate attributeName="r" values="1;1.5;1" dur="1.5s" repeatCount="indefinite"/> </circle> <!-- Luna --> <circle cx="250" cy="50" r="20" fill="#fef3c7"> <animate attributeName="cy" values="50;45;50" dur="4s" repeatCount="indefinite"/> </circle> <!-- Gato --> <g transform="translate(80, 90)"> <!-- Cuerpo --> <ellipse cx="0" cy="0" rx="25" ry="15" fill="#4b5563"/> <!-- Cabeza --> <circle cx="0" cy="-25" r="15" fill="#4b5563"/> <!-- Orejas --> <polygon points="-12,-38 -5,-45 -12,-45" fill="#4b5563"/> <polygon points="12,-38 5,-45 12,-45" fill="#4b5563"/> <!-- Ojos --> <circle cx="-6" cy="-30" r="2" fill="#fef3c7"> <animate attributeName="fill" values="#fef3c7;#f59e0b;#fef3c7" dur="2s" repeatCount="indefinite"/> </circle> <circle cx="6" cy="-30" r="2" fill="#fef3c7"> <animate attributeName="fill" values="#fef3c7;#f59e0b;#fef3c7" dur="2s" repeatCount="indefinite" begin="0.5s"/> </circle> </g> </svg>
+✨ Programando bajo la luz de la luna ✨
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Computer+Science+%26+Systems;Always+learning+%F0%9F%93%9A" alt="Typing SVG" /></div>
 
 ## 🎯 About Me
 
