@@ -5,8 +5,6 @@
 </div>
 
 
-<p><i>Luna and the cat accompany you on your coding journey!🌙🐱</i></p>
-
 ---
 
 <!-- Presentación dinámica -->
