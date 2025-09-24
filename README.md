@@ -49,18 +49,3 @@
 ---
 
 *"El futuro pertenece a quienes creen en la belleza de sus sueños... ¡y los codifican!"* ✨
-
-```javascript
-const luna = {
-    name: "Luna 🐱",
-    status: "Flotando alrededor de la luna",
-    currentActivity: "Ayudando a debuggear bajo la luz lunar",
-    favoriteSpot: "Sobre mi teclado",
-    mood: () => ["😸 Juguetona", "😴 Dormilona", "🤔 Curiosa", "😻 Feliz"][Math.floor(Math.random() * 4)],
-    meow: function() {
-        return "¡Miau! ¡Hora de programar bajo la luna! 🌙✨";
-    }
-};
-
-console.log(luna.meow());
-```
