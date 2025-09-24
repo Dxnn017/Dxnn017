@@ -1,5 +1,12 @@
 ### Hi there! I’m Dani <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 ### Software Engineering Student · Cat Lover · Dreamer 🌙🐱
+<div align="center">
+
+# 👋 Hi there! I’m **Dani**  
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=💻+Tech+Enthusiast;🌱+Future+Software+Engineer;🚀+Always+Learning" />
+
+</div>
 
 <div align="center">
 
