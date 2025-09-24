@@ -1,4 +1,4 @@
-# 👋 Hi! I'm **Daniela**
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 ### Software Engineering Student | Computer Science & Systems
 
 ---
