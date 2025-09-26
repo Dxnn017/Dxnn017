@@ -7,11 +7,7 @@
 
 ---
 
-<!-- Presentación dinámica -->
-💡 Turning code into creative solutions for every challenge  
-🧑‍💻 Competitive programmer with skills in **Java, JavaScript, Python, C++, C#**  
-🗄️ Experienced with **MySQL, SQL Server, Oracle**  
-🚀 Constantly learning and exploring new technologies ✨  
+<!-- Presentación dinámica --> 
 🐾 Fun fact: If you see a cat near the keyboard, that's *Luna* — best debugging partner 😹
 
 ---
