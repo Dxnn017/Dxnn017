@@ -8,7 +8,7 @@
 ---
 
 <!-- Presentación dinámica --> 
-🐾 Fun fact: If you see a cat near the keyboard, that's *Luna* — best debugging partner 😹
+                   🐾 Fun fact: If you see a cat near the keyboard, that's *Luna* — best debugging partner 😹
 
 ---
 
